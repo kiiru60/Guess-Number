@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GuessTheNumber
+comment0.text=\r\n\ Play\ the\ number\ guessing\ game\r\n\r\n\ @author\ Alex\ Kiiru\r\n\ @version\ Sept\ 19,\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=myGuess\ theSecret
+comment2.target=void\ provideFeedBack(int,\ int)
+numComments=3
